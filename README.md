@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @datduong195
-- 👀 I’m interested in Programming, Robotics and Aerospaces stuff
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Daniel
+- 👀 I’m interested in Programming, AI, Robotics and Aerospaces stuff
+- 🌱 I’m currently learning Udacity Self Driving Car Nanodegree
+- 💞️ I’m looking to collaborate on Autonomous Driving Domain
 - 📫 How to reach me ...
 
 <!---
